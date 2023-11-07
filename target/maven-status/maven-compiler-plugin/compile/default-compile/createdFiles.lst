@@ -1,0 +1,5 @@
+br/com/srv/topic/srvtopic/service/UserService.class
+br/com/srv/topic/srvtopic/model/User.class
+br/com/srv/topic/srvtopic/SrvtopicApplication.class
+br/com/srv/topic/srvtopic/repository/UserRepository.class
+br/com/srv/topic/srvtopic/controller/UserController.class
